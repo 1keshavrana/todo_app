@@ -1,0 +1,20 @@
+.main{
+    background-color: yellow;
+}
+.heading{
+    font-size: xx-large;
+    font-weight: 900;
+    color: gold;
+    background-color: blueviolet;
+    border: 2px;
+    text-align: center;
+    border-radius: 16px;
+}
+.del{
+    background-color: blue;
+}
+.input{
+    background-color: gold;
+    text-align: center;
+    align-items: center;
+}
