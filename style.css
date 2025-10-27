@@ -12,9 +12,12 @@
 }
 .del{
     background-color: blue;
+    margin: 10px;
 }
 .input{
     background-color: gold;
+    display: inline-block;
+}
+.inp{
     text-align: center;
-    align-items: center;
 }
